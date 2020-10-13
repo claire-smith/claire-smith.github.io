@@ -1,0 +1,21 @@
+@import 'base/reset';
+@import 'base/helpers';
+@import 'base/form';
+@import 'base/include-media'; /*media queries function file from http://include-media.com/documentation/ */
+@import 'base/bootstrap-4-grid';
+//mixins
+@import 'base/mixins';
+
+/* custom variables */
+@import 'custom/variables';
+@import 'custom/type';
+@import 'custom/buttons';
+@import 'custom/form';
+
+@import 'custom/layout';
+//@import 'custom/pages';
+@import 'custom/header';
+@import 'custom/footer';
+//@import 'custom/cookies';
+
+/******************/
