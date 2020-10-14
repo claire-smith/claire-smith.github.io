@@ -24,8 +24,8 @@ $container-max-width: 1220px;
 $container-read-layout-max-width: 805px;
 
 
-$font-family: 'Montserrat', 'Trebuchet MS', sans-serif;
-$font-family-alt: 'Nunito', 'Trebuchet MS', sans-serif;
+$font-family: 'Barlow', 'Trebuchet MS', sans-serif;
+$font-family-alt: '';
 
 $color-brand-dark: #6a2c59;
 $color-brand: #c479af;
@@ -52,13 +52,15 @@ $inform-bg: #fed76d;
 $disabled-color: #c2c5c4;
 $highlight-bg: #ebf8ff;
 
+$body-bg: #FAFCFD;
 $body-color: $tertiary-color;
 $title-color: $color-brand-dark;
 
 $nav-color: $color-brand-dark;
 
+$header-bg: transparent;
 
-$footer-bg: green;
+$footer-bg: transparent;
 $footer-color: white;
 $footer-links-color:white;
 
