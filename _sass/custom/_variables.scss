@@ -20,7 +20,8 @@ $breakpoints: (
 	margin: 0 auto 2rem;
     max-width: 325px;
 }
-$container-max-width: 1220px;
+$container-max-width: 1092px;
+$container-wide-max-width: 1260px;
 $container-read-layout-max-width: 805px;
 
 
@@ -138,4 +139,10 @@ $background-overlay-gradient: linear-gradient(180deg, rgba(4, 25, 62, 0) 0%, rgb
 		height:7px;
 		border-radius:50px;
 	}
+}
+
+%image-style{
+	border-radius: 8px;
+	box-shadow: 0px 0px 33px 4px rgba(0, 0, 0, 0.25);
+	image-rendering: pixelated;
 }
