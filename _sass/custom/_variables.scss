@@ -28,16 +28,28 @@ $container-read-layout-max-width: 805px;
 $font-family: 'Barlow', 'Trebuchet MS', sans-serif;
 $font-family-alt: '';
 
-$color-brand-dark: #6a2c59;
-$color-brand: #c479af;
-$color-brand-light: #EFDBEA;
+$color-white-off: #fafcfd;
+$color-grey-dark: #414141;
+$color-grey: #4f4f4f;
+$color-turquoise: #1ac7d2;
+$color-turquoise-dark: #1ac7d2;
+$color-grey-light: #878787;
+$color-navy: #26313d;
+
+
+
+
+
+$color-brand-dark: $color-turquoise-dark;
+$color-brand: $color-turquoise;
+
 
 $color-brand-secondary-dark: #36630b;
-$color-brand-secondary: #80c779;
+$color-brand-secondary: #26313D;
 $color-brand-secondary-light: #DDF0DB;
 
-$primary-color: $color-brand;
-$primary-color-dark:$color-brand-dark;
+$primary-color: $color-turquoise;
+$primary-color-dark: $color-brand-dark;
 
 $secondary-color: $color-brand-secondary;
 $secondary-color-dark: $color-brand-secondary-dark;
@@ -53,9 +65,10 @@ $inform-bg: #fed76d;
 $disabled-color: #c2c5c4;
 $highlight-bg: #ebf8ff;
 
-$body-bg: #FAFCFD;
-$body-color: $tertiary-color;
-$title-color: $color-brand-dark;
+$body-bg: $color-white-off;
+$body-color: $color-grey;
+$title-color: $color-navy;
+$subtitle-color: $color-grey-light;
 
 $nav-color: $color-brand-dark;
 

@@ -1,0 +1,3 @@
+run 'jekyll serve'
+
+This will give link to server - open in chrome and then go /portfolio for eg
