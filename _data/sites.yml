@@ -1,3 +1,10 @@
+- name: 'Caribbean Tourist Board'
+  subtitle: 'Website redesign and build'
+  bg_thumb: 'linear-gradient(360deg, #FF512F 0%, #DD2476 100%)'
+  bg_work: 'linear-gradient(360deg, rgba(255, 81, 47, 0) 0%, rgba(255, 81, 47, 0.46) 49.48%, rgba(221, 36, 118, 0.46) 100%)'
+  img_name: 'rmi'
+  content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Malesuada lorem urna, lectus pulvinar sed. Eget netus adipiscing nisl, phasellus tincidunt nibh habitasse nisl. Iaculis morbi morbi sed id condimentum posuere egestas erat. Sed cursus dolor eu eget at habitant fusce non sit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Malesuada lorem urna, lectus pulvinar sed. Eget netus adipiscing nisl, phasellus tincidunt nibh habitasse nisl. Iaculis morbi morbi sed id condimentum posuere egestas erat. Sed cursus dolor eu eget at habitant fusce non sit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Malesuada lorem urna, lectus pulvinar sed. Eget netus adipiscing nisl, phasellus tincidunt nibh habitasse nisl. Iaculis morbi morbi sed id condimentum posuere egestas erat. Sed cursus dolor eu eget at habitant fusce non sit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Malesuada lorem urna, lectus pulvinar sed. Eget netus adipiscing nisl, phasellus tincidunt nibh habitasse nisl. Iaculis morbi morbi sed id condimentum posuere egestas erat. Sed cursus dolor eu eget at habitant fusce non sit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Malesuada lorem urna, lectus pulvinar sed. Eget netus adipiscing nisl, phasellus tincidunt nibh habitasse nisl. Iaculis morbi morbi sed id condimentum posuere egestas erat. Sed cursus dolor eu eget at habitant fusce non sit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Malesuada lorem urna, lectus pulvinar sed. Eget netus adipiscing nisl, phasellus tincidunt nibh habitasse nisl. Iaculis morbi morbi sed id condimentum posuere egestas erat. Sed cursus dolor eu eget at habitant fusce non sit.'
+
 - name: 'Resort Marketing International'
   subtitle: 'Website redesign and build'
   bg_thumb: 'linear-gradient(116.11deg, #13C7EF 5.07%, rgba(32, 138, 237, 0.74) 94.77%)'
@@ -5,11 +12,6 @@
   img_name: 'rmi'
   content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Malesuada lorem urna, lectus pulvinar sed. Eget netus adipiscing nisl, phasellus tincidunt nibh habitasse nisl. Iaculis morbi morbi sed id condimentum posuere egestas erat. Sed cursus dolor eu eget at habitant fusce non sit.'
   external_link: 'https://resort-marketing.co.uk'
-
-- name: 'Caribbean Tourist Board'
-  subtitle: 'Website redesign and build'
-  bg_thumb: 'linear-gradient(90deg, #FF512F 0%, #DD2476 100%)'
-  bg_work: 'linear-gradient(90deg, rgba(255, 81, 47, 0) 0%, rgba(255, 81, 47, 0.46) 49.48%, rgba(221, 36, 118, 0.46) 100%)'
 
   img_name: 'rmi'
   content: ''
